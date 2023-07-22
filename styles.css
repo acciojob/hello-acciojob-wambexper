@@ -1,11 +1,11 @@
-div::before{
-	content:"Before Element";
-	color:red;
-	font-size:20px;
+/* Your CSS Code here. */
+main.accio#job {
+  width: 150px;
+  height: 150px;
+  background-color: black;
 }
- 
-div::after{
-	content:"After Element";
-	color:red;
-	font-size:20px;
+ p.hello-accio {
+  color: rgb(255, 255, 255);
+  margin-left:32px;
+  padding: 10px;
 }
